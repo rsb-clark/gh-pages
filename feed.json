@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Roger and Sarah Bancroft Clark Charitable Trust",
+    "description": "",
+    "home_page_url": "https://rsb-clark.github.io/gh-pages",
+    "feed_url": "https://rsb-clark.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://rsb-clark.github.io/gh-pages/media/website/rsbclogo.png",
+    "author": {
+        "name": "G"
+    },
+    "items": [
+    ]
+}
