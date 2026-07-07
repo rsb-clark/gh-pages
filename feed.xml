@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>The Roger and Sarah Bancroft Clark Charitable Trust</title>
-    <link href="https://RSBCLARK.ORG/feed.xml" rel="self" />
-    <link href="https://RSBCLARK.ORG" />
+    <link href="https://rsbclark.org/feed.xml" rel="self" />
+    <link href="https://rsbclark.org" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>G</name>
     </author>
-    <id>https://RSBCLARK.ORG</id>
+    <id>https://rsbclark.org</id>
 
 </feed>

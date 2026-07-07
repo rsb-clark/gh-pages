@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://RSBCLARK.ORG/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://rsbclark.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://RSBCLARK.ORG/</loc>
+<loc>https://rsbclark.org/</loc>
 </url>
 <url>
-<loc>https://RSBCLARK.ORG/apply-for-a-grant.html</loc>
+<loc>https://rsbclark.org/apply-for-a-grant.html</loc>
 <lastmod>2025-03-17T10:35:22+00:00</lastmod>
 </url>
 <url>
-<loc>https://RSBCLARK.ORG/home.html</loc>
+<loc>https://rsbclark.org/home.html</loc>
 <lastmod>2026-07-07T11:42:34+01:00</lastmod>
 </url>
 <url>
-<loc>https://RSBCLARK.ORG/privacy-policy.html</loc>
+<loc>https://rsbclark.org/privacy-policy.html</loc>
 <lastmod>2025-11-06T14:34:03+00:00</lastmod>
 </url>
 </urlset>

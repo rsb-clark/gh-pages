@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Roger and Sarah Bancroft Clark Charitable Trust",
     "description": "",
-    "home_page_url": "https://RSBCLARK.ORG",
-    "feed_url": "https://RSBCLARK.ORG/feed.json",
+    "home_page_url": "https://rsbclark.org",
+    "feed_url": "https://rsbclark.org/feed.json",
     "user_comment": "",
-    "icon": "https://RSBCLARK.ORG/media/website/rsbclogo.png",
+    "icon": "https://rsbclark.org/media/website/rsbclogo.png",
     "author": {
         "name": "G"
     },
